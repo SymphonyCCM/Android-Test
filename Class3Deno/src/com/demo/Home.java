@@ -26,6 +26,7 @@ public class Home extends Activity{
 			
 			public void onClick(View v) {
 				
+				// Intent to navigate from Home Activity to Class2Deno Activity
 				
 				Intent i = new Intent(Home.this,Class3DenoActivity.class);
 				
