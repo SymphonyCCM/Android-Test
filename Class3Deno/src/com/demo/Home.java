@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class Home extends Activity{
 
+	// Button Initialization
 	
 	Button btn_navigate;
 	Button btn_view;
